@@ -3,7 +3,7 @@
 
 ## EJEMPLO DE ADICIÓN DE DATOS EN ESTE INFORME
 
-![Figuras](figuras.png)
+![Imagen de WhatsApp 2025-05-11 a las 21 38 41_c3235a05](https://github.com/user-attachments/assets/56183213-6f4c-487b-a338-c6578aa42a31)
 
 ##  CONCLUCIONES CON TERMINOLOGIA DE NOTACION 
 
